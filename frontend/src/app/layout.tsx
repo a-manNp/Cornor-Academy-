@@ -16,7 +16,9 @@ export const metadata: Metadata = {
   description: "Cornor Academy",
   keywords: [
     'web development',
-    'mobile development'
+    'mobile development',
+    'graphic design',
+    'cyber security',
   ],
 };
 
